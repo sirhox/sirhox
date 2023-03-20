@@ -1,5 +1,21 @@
-### Hi there 👋
 
+<h1 align="center">Hello 👋!</h1>
+<h3 align="center">Hi there, I'm Facundo, a fullstack developer with a passion for design and content creation.</h3>
+
+<h3>🧐 Some Things About Me</h3>
+
+- 🌱 I’m currently preparing for an **AWS Certification Exam**
+- 💬 Ask me about **Web development**
+- 📫 Get in touch with me **azulafacundo@gmail.com**
+- ⚡ Fun fact ** I play the piano sometimes 🎹 **
+
+##Soft Skills
+
+📚 Curiosity, Never stop learning
+
+💪 Motivation
+
+🙋 Social skills
 <!--
 **sirhox/sirhox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
