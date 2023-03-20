@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋!</h1>
-<h3 align="center">I'm Facundo, a fullstack developer with a passion for design and content creation.</h3>
+<h3 align="center">I'm Facundo, a fullstack developer with passion on making things pretty</h3>
 
 <h3>🧐 Things about me</h3>
 
