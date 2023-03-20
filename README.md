@@ -9,7 +9,7 @@
 - 📫 Get in touch with me **azulafacundo@gmail.com**
 - ⚡ Fun fact ** I play the piano sometimes 🎹 **
 
-##Soft Skills
+<h2 align="left">Soft skills</h2>
 
 📚 Curiosity, Never stop learning
 
