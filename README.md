@@ -7,7 +7,6 @@
 - 🌱 I’m currently preparing for an **AWS Certification Exam**
 - 💬 Ask me about **Web development**
 - 📫 Get in touch with me **azulafacundo@gmail.com**
-- ⚡ Fun fact ** I play the piano sometimes 🎹 **
 
 <h2>Soft skills</h2>
 
