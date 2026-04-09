@@ -2,10 +2,6 @@
 <h1 align="center">Hello 👋!</h1>
 <h3 align="center">I'm Facundo, a fullstack developer with passion on making things pretty</h3>
 
-<h2>🧐 Things about me</h2>
-
-- 🌱 I’m currently preparing for an **AWS Certification Exam**
-- 💬 Ask me about **Web development**
 - 📫 Get in touch with me **azulafacundo@gmail.com**
 
 
